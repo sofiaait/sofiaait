@@ -8,13 +8,12 @@
   </h3>
 </div>
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,bash,scala,html,css,django,tailwind&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,linux,ubuntu,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,gitlab,linux,ubuntu,vscode&theme=dark" />
 </p>
 
 <p align="center">
