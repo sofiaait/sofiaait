@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv&theme=dark" />
 </p>
